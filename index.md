@@ -14,7 +14,9 @@ title: Versal Privacy Policy
 # Versal Privacy Policy
 
 **Effective date:** October 20, 2026
+
 **Developer:** Emmanuel Omokagbo
+
 **Contact:** emmanuel.omokagbo@gmail.com
 
 Versal is a Bible verse app. You pick how you feel, and it suggests verses. This policy explains what Versal stores, what it sends off your device, and what you can do about it.
